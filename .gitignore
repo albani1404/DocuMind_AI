@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+*.db
+storage/uploads/*
+storage/processed/*
+storage/chroma/*
+!storage/*/.gitkeep
